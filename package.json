@@ -1,0 +1,1 @@
+{\n  "name": "my-express-api",\n  "version": "1.0.0",\n  "description": "A simple Express.js API",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js",\n    "dev": "nodemon server.js"\n  },\n  "keywords": ["nodejs", "express", "api"],\n  "author": "GitHub Activity Practice",\n  "license": "MIT",\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
